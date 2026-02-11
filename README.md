@@ -9,6 +9,7 @@ My own configuration files for working with AI coding agents
 - Railway
 ### Skills
 - https://github.com/obra/superpowers
+- https://github.com/lackeyjb/playwright-skill
 - monitor
 - monitor-browser
 - sync-figma-styles
